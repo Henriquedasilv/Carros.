@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+
+header {
+    background-color: #1e88e5;
+    padding: 2rem;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.carro {
+    margin-bottom: 2rem;
+    background-color: #bbdefb;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.carro img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #1e88e5;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+}
